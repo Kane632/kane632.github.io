@@ -47,6 +47,7 @@ This time I tackled more systems and components than the last game: </p>
 I found interesting how Unreal Engine has already a game framework setup with base classes like the game mode, game state, player controller, player state, pawn, hud, game instance, etc. Coming from my custom engine and some small Unity projects this was quite puzzling and complex at first, but in the end I liked how it was structured.
 </p>
 
+### Gallery
 {% include gallery layout="one" %}
 
 ### Gameplay showcase

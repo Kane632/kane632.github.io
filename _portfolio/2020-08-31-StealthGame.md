@@ -36,6 +36,7 @@ The multiplayer aspect consists on activating replication of actors, and replica
 <li>A black hole that attracts and destroys actors that have physics enabled.</li>
 </ul>
 
+### Gallery
 {% include gallery layout="one" %}
 
 ### Gameplay showcase

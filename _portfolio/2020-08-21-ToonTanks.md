@@ -30,6 +30,7 @@ The game consists on a tank that is controlled by the player. The player will ne
 I learned the basics of creating actors/pawns from C++ and attaching components before making the final touches in a child Blueprint class. I also modified the project settings input for the first time and assigned bindings.<br><br>
 </p>
 
+### Gallery
 {% include gallery layout="one" %}
 
 ### Gameplay showcase
