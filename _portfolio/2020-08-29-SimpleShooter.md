@@ -1,5 +1,5 @@
 ---
-title: "Simple Shooter"
+title: "Tutorial: Simple Shooter"
 classes: wide
 author_profile: false
 order: 3

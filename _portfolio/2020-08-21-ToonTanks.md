@@ -1,5 +1,5 @@
 ---
-title: "Toon Tanks"
+title: "Tutorial: Toon Tanks"
 classes: wide
 author_profile: false
 order: 2
