@@ -3,7 +3,7 @@ title: "Simple Shooter"
 classes: wide
 author_profile: false
 order: 3
-excerpt: "UE4 Singleplayer Udemy project. Basic unreal game mode, player controller and pawn introduction."
+excerpt: "UE4 Singleplayer Udemy project. Basic unreal game loop. Main menu, settings, win/loose conditions."
 header:
   teaser: /assets/images/portfolio/2020-08-29-SimpleShooter/SimpleShooter.png
 sidebar:
