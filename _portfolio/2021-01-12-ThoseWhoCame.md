@@ -11,7 +11,7 @@ sidebar:
     image: /assets/images/portfolio/2021-01-12-ThoseWhoCame/ThoseWhoCame.png
     image_alt: "Those Who Came image" 
   - title: "Date"
-    text: "2021-2022"
+    text: "2021 - 2022"
   - title: "Webpage"
     text: "[Those Who Came](https://thosewhocame.com/)"
   - title: "Platforms / Stores"
