@@ -1,27 +1,27 @@
-# Minimal Mistakes remote theme starter
+# My Personal Site
 
-Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+This repository contains the source code for my personal website, built with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes). It serves as a central hub for my posts, random thoughts, homelab experiments, and portfolio—all in one place.
 
-Contains basic configuration to get you a site with:
+## What You'll Find Here
+- Blog posts and updates
+- Technical notes and random thoughts
+- Homelab and self-hosting experiments
+- My game development and software portfolio
 
-- Sample posts.
-- Sample top navigation.
-- Sample author sidebar with social links.
-- Sample footer links.
-- Paginated home page.
-- Archive pages for posts grouped by year, category, and tag.
-- Sample about page.
-- Sample 404 page.
-- Site wide search.
-
-Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
+## About the Project
+This site is based on a fork of the Minimal Mistakes Jekyll template, customized to fit my needs and style. If you're interested in building a similar site, check out the [Minimal Mistakes documentation](https://mmistakes.github.io/minimal-mistakes/docs/).
 
 ---
 
-## Troubleshooting
+## Getting Started (for Forks)
+If you want to use this as a starting point for your own site:
+1. Fork this repository.
+2. Replace my content with your own.
+3. Adjust configuration in `_config.yml` and `_data/navigation.yml` as needed.
 
-If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
+For more details, see the [Minimal Mistakes documentation](https://mmistakes.github.io/minimal-mistakes/docs/).
 
-- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
-- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
-- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.
+---
+
+## License
+This project is open source and available under the [MIT License](LICENSE) unless otherwise noted.
