@@ -12,12 +12,14 @@ sidebar:
     image_alt: "Those Who Came image" 
   - title: "Date"
     text: "2021 - 2022"
+  - title: "Company"
+    text: "[RolldBox](https://rolldbox.com/)"
+  - title: "Role"
+    text: "Mid UE generalist programmer."
   - title: "Webpage"
     text: "[Those Who Came](https://thosewhocame.com/)"
   - title: "Platforms / Stores"
     text: "[Steam](https://store.steampowered.com/app/1708570/Those_who_Came/)"
-  - title: "Company"
-    text: "[RolldBox](https://rolldbox.com/)"
 gallery:
   - url: /assets/images/portfolio/2021-01-12-ThoseWhoCame/ThoseWhoCame.png
     image_path: assets/images/portfolio/2021-01-12-ThoseWhoCame/ThoseWhoCame.png

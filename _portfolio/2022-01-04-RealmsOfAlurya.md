@@ -12,12 +12,14 @@ sidebar:
     image_alt: "Realms Of Alurya image" 
   - title: "Date"
     text: "2022 - Current"
+  - title: "Company"
+    text: "[Synergy Games](https://www.synergygames.es/)"
+  - title: "Role"
+    text: "Senior UE generalist programmer."
   - title: "Webpage"
     text: "[Realms Of Alurya](https://www.realmsofalurya.com/)"
   - title: "Platforms / Stores"
     text: "[Propietary Launcher](https://installer.launcher.xsolla.com/xlauncher-builds/xsolla-launcher-update/12388/bin/installer.exe)<br>[Epic Games](https://store.epicgames.com/en-US/p/realms-of-alurya-0ad02f?lang=en-US)<br>[Steam](https://store.steampowered.com/app/3500760/Realms_of_Alurya/)"
-  - title: "Company"
-    text: "[Synergy Games](https://www.synergygames.es/)"
 gallery:
   - url: /assets/images/portfolio/2022-01-04-RealmsOfAlurya/RealmsOfAlurya.png
     image_path: assets/images/portfolio/2022-01-04-RealmsOfAlurya/RealmsOfAlurya.png
@@ -72,6 +74,7 @@ By using the Playfab and Azure ecosystem with linux dedicated servers inside doc
 - [CircleCI](https://circleci.com/) to monitor backend deployments.
 - [Xsolla](https://xsolla.com/) as our custom launcher.
 - [Bugsplat](https://www.bugsplat.com/) crash and error reporting.
+- [Plastic SCM](https://www.plasticscm.com/) as our vcs.
 
 ### Gallery
 {% include gallery layout="third" %}

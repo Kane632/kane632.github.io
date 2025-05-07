@@ -15,11 +15,11 @@ host: 0.0.0.0
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Alfred Portfolio
-masthead_title: Alfred's Portfolio
+title: Alfred's Site
+masthead_title: Alfred's Site
 email: alfredbarbero+work@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Alfred Barbero portfolio site. Contains a collection of my work and
+  Alfred Barbero site. Contains a collection of my work and
   experience. I am a software engineer working on Unreal Engine game development.
   In my free time I like to work on personal projects and learn new technologies.
   You will also find some of my personal projects and experiments here related to homelabbing,
