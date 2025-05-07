@@ -1,6 +1,6 @@
 # My Personal Site
 
-This repository contains the source code for my personal website, built with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes). It serves as a central hub for my posts, random thoughts, homelab experiments, and portfolio—all in one place.
+This repository contains the source code for my personal website, built with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes). It serves as a central hub for my posts, random thoughts, homelab experiments, and portfolio, all in one place.
 
 ## What You'll Find Here
 - Blog posts and updates
