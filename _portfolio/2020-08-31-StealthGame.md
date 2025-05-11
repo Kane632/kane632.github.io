@@ -24,17 +24,18 @@ gallery:
     alt: "Stealth Game image"
 ---
 
-<p align='justify'>
-This time was a small project but with a twist of multiplayer.<br><br>
-The game is fairly simple. We have a AI guard with its BT that can patrol. If any guard sees any player, you lose the game.<br>
+This time was a small project but with a twist of multiplayer.  
+
+The game is fairly simple. We have a AI guard with its BT that can patrol. If any guard sees any player, you lose the game.  
+
 The objective is to retrieve the mission object and go to the escape zone with it without any guard seeing you.
-The guards are equipped with the PawnSensing component but you can distract them with your gun, you only have to shoot and they will investigate the noise of the projectile.<br><br>
-The multiplayer aspect consists on activating replication of actors, and replicate some custom C++ variables that have OnRep functions to update the clients.</p><br>
-<p>This tutorial also had 2 fun little challenges:</p>
-<ul>
-<li>A jumpad that launches the actor flying in a direction.</li>
-<li>A black hole that attracts and destroys actors that have physics enabled.</li>
-</ul>
+The guards are equipped with the PawnSensing component but you can distract them with your gun, you only have to shoot and they will investigate the noise of the projectile.  
+
+The multiplayer aspect consists on activating replication of actors, and replicate some custom C++ variables that have OnRep functions to update the clients.  
+
+This tutorial also had 2 fun little challenges:
+- A jumpad that launches the actor flying in a direction.
+- A black hole that attracts and destroys actors that have physics enabled.
 
 ### Gallery
 {% include gallery layout="one" %}

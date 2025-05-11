@@ -41,11 +41,15 @@ gallery:
     alt: "Build Manager image"
 ---
 
-<p align='justify'>Realms of Alurya is my second commercial game and my role has been as a generalist senior programmer.<br><br>
-Realms of Alurya is an Action RPG game that integrates MOBA mechanics into a player-driven world that allows players real ownership of digital game assets. It has been developed with Unreal Engine 5.<br><br>
-I have designed and developed the game core systems from simple widget blueprints to managers to handle the communication with the Playfab/Azure cloud solutions.<br><br>
-A lot of my time has been working hand to hand with our backend engineer, as I handle almost everything related to the client and game servers communication with our backend services. I find these long talks very interesting as I can learn about his needs for the backend while I help him learn how our Unreal client and server architecture works.<br><br>
-Another of my responsibilities has been build generation and deployment to XSolla. To automate the process while we don't have a build server to setup any CI/CD, I have created an <a href="https://www.autohotkey.com/">AutoHotKey</a> script that generates UnrealHeaderTools bats, setups variables in config files, creates zips of the builds, signs the client executables and can update the playfab fleets while cleaning up the old versions automatically. This way we generate manual builds on specific days but the process is much easier and less error-prone.<br><br>
+Realms of Alurya is my second commercial game and my role has been as a generalist senior programmer.  
+
+Realms of Alurya is an Action RPG game that integrates MOBA mechanics into a player-driven world that allows players real ownership of digital game assets. It has been developed with Unreal Engine 5.  
+
+I have designed and developed the game core systems from simple widget blueprints to managers to handle the communication with the Playfab/Azure cloud solutions.  
+
+A lot of my time has been working hand to hand with our backend engineer, as I handle almost everything related to the client and game servers communication with our backend services. I find these long talks very interesting as I can learn about his needs for the backend while I help him learn how our Unreal client and server architecture works.  
+
+Another of my responsibilities has been build generation and deployment to XSolla. To automate the process while we don't have a build server to setup any CI/CD, I have created an [AutoHotKey](https://www.autohotkey.com/) script that generates UnrealHeaderTools bats, setups variables in config files, creates zips of the builds, signs the client executables and can update the playfab fleets while cleaning up the old versions automatically. This way we generate manual builds on specific days but the process is much easier and less error-prone.  
 
 As I love fiddling around and trying technologies some of the tools or works that I am most proud would be:</p>
 
@@ -57,8 +61,9 @@ As I love fiddling around and trying technologies some of the tools or works tha
 <li>First I made a bunch of python scripts to create testing Nfts on our Dev environment. Then I made an upgrade by creating an executable app based in react and electron, so any employee could give themselves or other persons testing Nfts, currencies, unlocks, etc. that are stored in the backend without the need of any technical skill or software requirement.</li>
 </ul><br>
 
-<p align='justify'>I also am in duty of mantaining the Plastic repository and help other team members when problems occur.<br><br>
-By using the Playfab and Azure ecosystem with linux dedicated servers inside docker images, we are able to have a base of a closs-platform game ready with easy scalability and regions expansion. This way in the future when we expand to other platforms the users will be able to play together.</p>
+I also am in duty of mantaining the Plastic repository and help other team members when problems occur.  
+
+By using the Playfab and Azure ecosystem with linux dedicated servers inside docker images, we are able to have a base of a closs-platform game ready with easy scalability and regions expansion. This way in the future when we expand to other platforms the users will be able to play together.  
 
 ### Azure technologies used:
 - [Azure](https://azure.microsoft.com/en-us/) as the main cloud based solutions.

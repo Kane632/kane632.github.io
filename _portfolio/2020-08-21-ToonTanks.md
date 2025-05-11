@@ -24,11 +24,11 @@ gallery:
     alt: "Toon Tanks image"
 ---
 
-<p align="justify">
-This was my first ever project made in Unreal Engine.<br><br>
-The game consists on a tank that is controlled by the player. The player will need to kill all the turrets to win, or if he dies in the process he will lose.<br><br>
-I learned the basics of creating actors/pawns from C++ and attaching components before making the final touches in a child Blueprint class. I also modified the project settings input for the first time and assigned bindings.<br><br>
-</p>
+This was my first ever project made in Unreal Engine.  
+
+The game consists on a tank that is controlled by the player. The player will need to kill all the turrets to win, or if he dies in the process he will lose.  
+
+I learned the basics of creating actors/pawns from C++ and attaching components before making the final touches in a child Blueprint class. I also modified the project settings input for the first time and assigned bindings.  
 
 ### Gallery
 {% include gallery layout="one" %}

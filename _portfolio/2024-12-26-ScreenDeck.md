@@ -28,9 +28,7 @@ gallery:
     alt: "ScreenDeck folders UI example"
 ---
 
-<p align="justify">
 ScreenDeck is a fully customizable Stream Deck-like tool for Windows, designed for use with any touchscreen (but a mouse works too). Built with AutoHotKey, it allows users to create as many profiles as needed, each with unique icons, texts, colors, and actions. Unlike commercial solutions, ScreenDeck is open and scriptable so users can define their own functions and automate any workflow they want.
-</p>
 
 ## Key Features
 - Touchscreen support: Use any external touchscreen as your deck.

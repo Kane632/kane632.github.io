@@ -29,18 +29,17 @@ gallery:
     alt: "Build Manager image"
 ---
 
-<p align='justify'>
-This is my first commercial game and my role has been almost as of the lead programmer because in the span of two years two programmers came and went and I was the only that started and ended the project.<br><br>
+This is my first commercial game and my role has been almost as of the lead programmer because in the span of two years two programmers came and went and I was the only that started and ended the project.  
 
-This game is a multiplayer 3rd person, sci-fi, coop RPG game where the more friends play together, more synergies appear between the energies available! You must solve puzzles and heal the planet Solarus. It has been developed with Unreal Engine 4.<br><br>
+This game is a multiplayer 3rd person, sci-fi, coop RPG game where the more friends play together, more synergies appear between the energies available! You must solve puzzles and heal the planet Solarus. It has been developed with Unreal Engine 4.  
 
-I have designed and developed the game core systems from simple widget blueprints to managers to handle the communication with the AWS cloud solutions.<br><br>
+I have designed and developed the game core systems from simple widget blueprints to managers to handle the communication with the AWS cloud solutions.  
 
-Another of my responsibilities has been build generation and deployment to Steam. To automate the process while we don't have a dedicated build server and setup any CI/CD like Jenkins, I have created an <a href="https://www.autohotkey.com/">AutoHotKey</a> script that generates UnrealHeaderTools bats, setups variables in .ini and .cs files, creates zips of the builds and uploads debug symbols to Bugsplat automatically. This way we generate manual builds on specific days but the process is much easier and less error-prone.</p>
+Another of my responsibilities has been build generation and deployment to Steam. To automate the process while we don't have a dedicated build server and setup any CI/CD like Jenkins, I have created an [AutoHotKey](https://www.autohotkey.com/) script that generates UnrealHeaderTools bats, setups variables in .ini and .cs files, creates zips of the builds and uploads debug symbols to Bugsplat automatically. This way we generate manual builds on specific days but the process is much easier and less error-prone.  
 
-<p align='justify'>
-I also am in duty of mantaining the Git repository and help other team members when problems occur.<br><br>
-By using the Amazon Web Services ecosystem with linux dedicated servers we are able to have the base of a closs-platform and scalable game ready with our custom friends and party system. This way in the future when we expand to other platforms the users will be able to play together.</p>
+I also am in duty of mantaining the Git repository and help other team members when problems occur.  
+
+By using the Amazon Web Services ecosystem with linux dedicated servers we are able to have the base of a closs-platform and scalable game ready with our custom friends and party system. This way in the future when we expand to other platforms the users will be able to play together.  
 
 ### AWS technologies used:
 - [Gamelift](https://aws.amazon.com/gamelift/) as the main cloud provider.
