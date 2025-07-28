@@ -4,9 +4,6 @@ date: 2025-04-25T10:00:00+02:00
 classes: wide
 categories:
   - homelab
-  - linux
-  - docker
-  - self-hosting
 tags:
   - beelink
   - ubuntu
